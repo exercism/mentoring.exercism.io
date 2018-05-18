@@ -1,0 +1,123 @@
+/* line 4, /Users/iHiD/Projects/work/exercism/mentoring/app/assets/stylesheets/defaults.scss */
+* {
+  box-sizing: border-box;
+}
+
+/* line 6, /Users/iHiD/Projects/work/exercism/mentoring/app/assets/stylesheets/defaults.scss */
+html {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", 'Helvetica Neue', Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-weight: 300;
+}
+
+/* line 10, /Users/iHiD/Projects/work/exercism/mentoring/app/assets/stylesheets/defaults.scss */
+body {
+  z-index: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", 'Helvetica Neue', Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 19.992px;
+  color: #333;
+  min-width: 1200px;
+}
+/* line 17, /Users/iHiD/Projects/work/exercism/mentoring/app/assets/stylesheets/defaults.scss */
+body.with-modal {
+  overflow: hidden;
+}
+
+/* line 22, /Users/iHiD/Projects/work/exercism/mentoring/app/assets/stylesheets/defaults.scss */
+button,
+input,
+select,
+textarea {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", 'Helvetica Neue', Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 14px;
+  font-weight: 300;
+  color: #333;
+}
+
+/* line 32, /Users/iHiD/Projects/work/exercism/mentoring/app/assets/stylesheets/defaults.scss */
+.pure-g [class*="pure-u"] {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", 'Helvetica Neue', Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-weight: 300;
+}
+
+/* line 36, /Users/iHiD/Projects/work/exercism/mentoring/app/assets/stylesheets/defaults.scss */
+::-webkit-input-placeholder {
+  /* WebKit browsers */
+  color: #ddd;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 300;
+}
+
+/* line 41, /Users/iHiD/Projects/work/exercism/mentoring/app/assets/stylesheets/defaults.scss */
+:-moz-placeholder {
+  /* Mozilla Firefox 4 to 18 */
+  color: #ddd;
+  font-size: 14px;
+  line-height: 20px;
+  opacity: 1;
+}
+
+/* line 46, /Users/iHiD/Projects/work/exercism/mentoring/app/assets/stylesheets/defaults.scss */
+::-moz-placeholder {
+  /* Mozilla Firefox 19+ */
+  color: #ddd;
+  font-size: 14px;
+  line-height: 20px;
+  opacity: 1;
+}
+
+/* line 51, /Users/iHiD/Projects/work/exercism/mentoring/app/assets/stylesheets/defaults.scss */
+:-ms-input-placeholder {
+  /* Internet Explorer 10+ */
+  color: #ddd;
+  font-size: 14px;
+  line-height: 20px;
+}
+
+/* line 55, /Users/iHiD/Projects/work/exercism/mentoring/app/assets/stylesheets/defaults.scss */
+.pure-button {
+  color: #fff;
+  border-radius: 2px;
+}
+
+/* line 59, /Users/iHiD/Projects/work/exercism/mentoring/app/assets/stylesheets/defaults.scss */
+h1, h2, h3, h4, h5, h6, p {
+  margin: 0;
+  font-size: 14px;
+  line-height: 14px;
+  font-weight: 300;
+}
+
+/* line 64, /Users/iHiD/Projects/work/exercism/mentoring/app/assets/stylesheets/defaults.scss */
+p {
+  margin: 0;
+}
+
+/* line 67, /Users/iHiD/Projects/work/exercism/mentoring/app/assets/stylesheets/defaults.scss */
+input {
+  border: 1px solid #aaa;
+  padding: 10px;
+  border-radius: 2px;
+}
+/* line 71, /Users/iHiD/Projects/work/exercism/mentoring/app/assets/stylesheets/defaults.scss */
+input:focus {
+  outline: 1px solid #ddd;
+  overflow: hidden;
+}
+
+/* line 76, /Users/iHiD/Projects/work/exercism/mentoring/app/assets/stylesheets/defaults.scss */
+.styled-select {
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+}
+/* line 81, /Users/iHiD/Projects/work/exercism/mentoring/app/assets/stylesheets/defaults.scss */
+.styled-select select {
+  border: none;
+  background: transparent;
+}

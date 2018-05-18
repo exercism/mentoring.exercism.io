@@ -1,0 +1,17 @@
+/* line 4, /Users/iHiD/Projects/work/exercism/mentoring/app/assets/stylesheets/header.scss */
+header {
+  background: #22333b;
+  height: 50px;
+  border-bottom: 1px solid #22333b;
+}
+/* line 9, /Users/iHiD/Projects/work/exercism/mentoring/app/assets/stylesheets/header.scss */
+header a.logo {
+  display: inline-block;
+  padding: 14px 0;
+  vertical-align: middle;
+}
+/* line 13, /Users/iHiD/Projects/work/exercism/mentoring/app/assets/stylesheets/header.scss */
+header a.logo img {
+  display: block;
+  height: 22px;
+}
