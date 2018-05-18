@@ -6,7 +6,7 @@ body.controller-pages.action-index footer {
 /* line 14, /Users/iHiD/Projects/work/exercism/mentoring/app/assets/stylesheets/landing-page.scss */
 #landing-page .welcome-section {
   padding: 150px 5%;
-  background-image: url(/assets/welcome-bg-be4bf8db6997324b526a4fbe7b95b3e695b72d5df6d9c6e0bf39d69a01960ad3.jpg);
+  background-image: url(./welcome-bg-be4bf8db6997324b526a4fbe7b95b3e695b72d5df6d9c6e0bf39d69a01960ad3.jpg);
   background-repeat: repeat;
   background-size: 400px;
 }
