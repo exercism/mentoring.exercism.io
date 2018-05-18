@@ -1,6 +1,6 @@
-# The Exercism Mentoring website
+# The Exercism Mentoring website
 
-### To deploy
+### To deploy
 
 1. `git pull origin master`
 2. Copy everything to s3.
