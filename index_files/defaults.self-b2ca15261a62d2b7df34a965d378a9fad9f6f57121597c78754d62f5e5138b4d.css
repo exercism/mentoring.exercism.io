@@ -18,7 +18,7 @@ body {
   font-size: 14px;
   line-height: 19.992px;
   color: #333;
-  min-width: 1200px;
+  min-width: 690px;
 }
 /* line 17, /Users/iHiD/Projects/work/exercism/mentoring/app/assets/stylesheets/defaults.scss */
 body.with-modal {

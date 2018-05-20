@@ -1,6 +1,7 @@
 /* line 4, /Users/iHiD/Projects/work/exercism/mentoring/app/assets/stylesheets/layout.scss */
 .lo-container {
   padding: 0 50px;
-  width: 1200px;
+  width:100%;
+  max-width: 1200px;
   margin: 0 auto;
 }
